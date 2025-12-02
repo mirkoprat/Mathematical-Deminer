@@ -7,6 +7,5 @@ I made this program with my classmate Pavel Cavallini.
 <img width="621" height="406" alt="image" src="https://github.com/user-attachments/assets/573dd06b-cb4c-4f0b-b411-f6986e61ec76" />
 <img width="1547" height="880" alt="image" src="https://github.com/user-attachments/assets/081f5122-4503-479c-9a0c-a3ac458bd677" />
 <img width="1586" height="882" alt="image" src="https://github.com/user-attachments/assets/6acb88bb-a344-4656-b39d-d061246cffd9" />
-<img width="1597" height="872" alt="image" src="https://github.com/user-attachments/assets/2ad2145c-fe6b-4a17-b47e-da853e799799" />
 <img width="875" height="467" alt="image" src="https://github.com/user-attachments/assets/837b290f-9565-49b3-9eb6-936962d5712c" />
 
