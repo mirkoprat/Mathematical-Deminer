@@ -1,2 +1,4 @@
 # Mathematical-Deminer
 Difficulty level (Easy: 3 primes, Medium: 7, Hard: 21) determines the initial prime number set. The system generates 50 values; each is a product of one randomly selected prime from the set and a random integer between 7 and 21. On each turn, the user inputs a divisor. The system filters the list, removing all numbers divisible by the user's input, and displays the remaining count. The game concludes when the user eliminates all 50 numbers, at which point the total moves are displayed.
+
+I made this program with my classmate Pavel Cavallini.
